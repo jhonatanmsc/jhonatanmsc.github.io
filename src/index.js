@@ -17,7 +17,7 @@
 */
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
+import { HashRouter, Route, Routes, Navigate } from "react-router-dom";
 
 import "assets/css/nucleo-icons.css";
 import "assets/scss/blk-design-system-react.scss";
@@ -31,7 +31,7 @@ import ProfilePage from "views/examples/ProfilePage.js";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
-  <BrowserRouter>
+  <HashRouter>
     <Routes>
       <Route path="/components" element={<Index />} />
       <Route path="/landing-page" element={<LandingPage />} />
@@ -39,5 +39,5 @@ root.render(
       <Route path="/profile-page" element={<ProfilePage />} />
       <Route path="*" element={<Navigate to="/components" replace />} />
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
 );
