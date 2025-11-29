@@ -1,0 +1,16 @@
+{
+  "email": "jhonatanmsc.profissional@gmail.com",
+  "github": "https://github.com/jhonatanmsc/",
+  "linkdin": "https://www.linkedin.com/in/jhonatanmsc/",
+  "resumeLink": "https://docs.google.com/document/d/19jZt1uWgo47XmhK_ouqi56oX7SSmUv9-6zQ0CP8rUzk/edit?usp=sharing\\",
+  "projects": [
+    {
+      "name": "Financeman \uD83D\uDCB0",
+      "link": "https://github.com/jhonatanmsc/finance-manager"
+    },
+    {
+      "name": "StreamRecorder \uD83D\uDCF7",
+      "link": "https://github.com/jhonatanmsc/cam-stream-recorder"
+    }
+  ]
+}
