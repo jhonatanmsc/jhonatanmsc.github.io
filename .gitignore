@@ -11,6 +11,9 @@
 # production
 #/build
 
+# generated PDFs (produced by scripts/sync-resumes.js)
+/public/resumes/*.pdf
+
 # misc
 .DS_Store
 .env.local

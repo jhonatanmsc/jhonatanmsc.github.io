@@ -1,6 +1,11 @@
 function update(e) {
   e.stopPropagation(); // Prevent event propagation
 
+  var container = document.querySelector('.whole-container');
+  if (!container) {
+    return;
+  }
+
   var x = e.clientX;
   var y = e.clientY;
   var parentRect = document.body.getBoundingClientRect(); // Use document.body instead of child elements
@@ -8,7 +13,7 @@ function update(e) {
   var offsetY = y - parentRect.top; // Calculate offsetY relative to the main body
 
   // Get the position of whole container 
-  var containerRect = document.querySelector('.whole-container').getBoundingClientRect();
+  var containerRect = container.getBoundingClientRect();
   var containerX = containerRect.left;
   var containerY = containerRect.top;
   offsetX = offsetX - containerX;

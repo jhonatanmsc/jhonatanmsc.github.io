@@ -2,8 +2,13 @@ import React from 'react';
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+jest.mock('react-markdown', () => ({
+  __esModule: true,
+  default: ({ children }: { children: React.ReactNode }) => <div>{children}</div>
+}));
+
+test('renders resume navigation', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
+  const linkElement = screen.getByText(/view resumes/i);
   expect(linkElement).toBeInTheDocument();
 });
