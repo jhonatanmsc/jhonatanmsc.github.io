@@ -5,7 +5,8 @@
 Brasil
 +55 86 98896-9872
 [jhonatanmsc.profissional@gmail.com](mailto:jhonatanmsc.profissional@gmail.com)
-LinkedIn | GitHub
+
+[LinkedIn](https://www.linkedin.com/in/jhonatanmsc) | [GitHub](https://github.com/jhonatanmsc)
 
 ## Resumo Profissional
 
@@ -33,25 +34,24 @@ Possuo forte atuação em arquitetura de software, desenvolvimento de integraç�
 
 ## Experiência Profissional
 
-### Desenvolvedor de Software Freelancer
+### Engenheiro de Software
 
-Compass UOL | Nov/2025 – Atual
+KWAN | Feb/2025 – Atual
+
+* Mantive e implementei funcionalidades para um chatbot que transforma comandos de usuários em código SQL, incluindo a criação de testes automatizados com Pytest
+* Projetei e desenvolvi infraestrutura utilizando serviços da AWS, tais como AWS Lambda e AWS API Gateway
+
+**Tecnologias:** Python, FastAPI, Terraform, S3, AWS IAM, Secret Manager, and CloudWatch
+
+### Engenheiro de Software
+
+Compass UOL | Nov/2025 – Jan/2026
 
 * Desenvolvimento de soluções backend para clientes e projetos independentes.
 * Construção de APIs escaláveis utilizando Python, FastAPI, Flask e Django.
 * Implementação e manutenção de aplicações em nuvem.
 
 **Tecnologias:** Python, FastAPI, Flask, Django, PostgreSQL, AWS, GCP
-
-### Desenvolvedor de Software Freelancer
-
-BairesDev | Out/2025 – Atual
-
-* Desenvolvimento de aplicações web full stack para clientes internacionais.
-* Construção de APIs REST e interfaces modernas utilizando React.
-* Participação em todo o ciclo de desenvolvimento, desde a definição técnica até a entrega.
-
-**Tecnologias:** Python, FastAPI, Flask, ReactJS, TypeScript
 
 ### Engenheiro de Software
 

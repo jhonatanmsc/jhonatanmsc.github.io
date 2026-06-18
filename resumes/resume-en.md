@@ -1,130 +1,117 @@
 # Jhonatan Costa
 
-## Senior Backend Engineer
+## Software Engineer | Python Backend Specialist
 
-Python • FastAPI • AWS • GCP • Microservices
+Brazil
 
-Portugal
 +351 964 122 422
+
 [jhonatanmsc.profissional@gmail.com](mailto:jhonatanmsc.profissional@gmail.com)
-LinkedIn | GitHub
+
+[LinkedIn](https://www.linkedin.com/in/jhonatanmsc) | [GitHub](https://github.com/jhonatanmsc)
 
 ## Professional Summary
 
-Senior Backend Engineer with 6+ years of experience designing, building, and maintaining scalable backend systems, REST APIs, microservices, and cloud-native applications.
+Software Engineer with 6+ years of experience in developing backend systems, REST APIs, microservices, and cloud applications using Python.
 
-Strong expertise in Python, FastAPI, Flask, Django, PostgreSQL, AWS, and Google Cloud Platform. Experienced in software architecture, distributed systems, serverless computing, CI/CD, and cloud infrastructure.
+Solid experience with FastAPI, Flask, Django, PostgreSQL, AWS, and Google Cloud Platform, working on projects across fintech, e-commerce, enterprise integrations, and digital customer service platforms.
 
-Worked across fintech, e-commerce, chatbot, and enterprise integration domains, delivering reliable, scalable, and maintainable solutions while collaborating with cross-functional teams throughout the software development lifecycle.
+Strong background in software architecture, integration development, serverless computing, process automation, CI/CD, and building scalable and resilient applications.
 
 ## Technical Skills
 
-### Programming Languages
+**Languages:** Python, JavaScript, TypeScript, SQL, PHP
 
-Python, JavaScript, TypeScript, SQL, PHP
+**Backend:** FastAPI, Flask, Django, REST APIs, Microservices, Integrations, Software Architecture
 
-### Backend & Architecture
+**Cloud & DevOps:** AWS, AWS Lambda, API Gateway, S3, GCP, Cloud Run, Cloud Functions, Pub/Sub, IAM, GitLab CI/CD, GitHub Actions, Docker
 
-FastAPI, Flask, Django, REST APIs, Microservices, Distributed Systems, Software Architecture, System Design, API Integrations
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase Realtime Database
 
-### Cloud & DevOps
+**Frontend:** ReactJS, Redux, HTML, CSS, Bootstrap
 
-AWS, Lambda, API Gateway, S3, IAM, GCP, Cloud Run, Cloud Functions, Pub/Sub, GitLab CI/CD, GitHub Actions, Docker
+**Software Quality:** Pytest, Unit Testing, Integration Testing, Code Review
 
-### Databases
-
-PostgreSQL, MySQL, MongoDB, Redis, Firebase Realtime Database
-
-### Frontend
-
-ReactJS, Redux, HTML, CSS, Bootstrap
-
-### Software Engineering Practices
-
-Pytest, Unit Testing, Integration Testing, Code Review, CI/CD, Agile Development
+**Tools:** Git, Linux
 
 ## Professional Experience
 
-### Software Developer (Freelance) | BairesDev
+### Engenheiro de Software
 
-Oct 2025 – Present
+KWAN | Feb/2025 – Present
 
-* Develop full-stack applications for international clients.
-* Design and implement REST APIs and backend services using Python.
-* Collaborate across the entire software development lifecycle, from requirements gathering to deployment.
-* Build modern frontend applications using React and TypeScript.
+* I maintained and implemented features for a chatbot that turns user input into SQL code, including automated tests using Pytest
+* I designed and developed infrastructure using AWS services such as AWS Lambdas, AWS API Gateway, AWS
 
-**Technologies:** Python, FastAPI, Flask, ReactJS, TypeScript
+**Tecnologias:** Python, FastAPI, Terraform, S3, AWS IAM, Secret Manager, and CloudWatch
 
-### Software Developer (Freelance) | Compass UOL
+### Software Engineer
 
-Nov 2025 – Jan 2026
+Compass UOL | Nov/2025 – Jan/2026
 
-* Developed backend solutions and APIs for client projects.
-* Designed scalable services using FastAPI, Flask, and Django.
-* Built and maintained cloud-based applications.
-* Supported software delivery and deployment processes.
+* Developed backend solutions for clients and independent projects.
+* Built scalable APIs using Python, FastAPI, Flask, and Django.
+* Implemented and maintained cloud-based applications.
 
 **Technologies:** Python, FastAPI, Flask, Django, PostgreSQL, AWS, GCP
 
-### Software Engineer | Blips
+### Software Engineer
 
-Sep 2024 – Jun 2025
+Blips | Sep/2024 – Jun/2025
 
-* Maintained and enhanced Python-based monolithic applications and microservices.
-* Developed automated test suites using Pytest.
-* Managed cloud infrastructure and deployment pipelines on GCP.
-* Supported production environments, troubleshooting and improving application reliability.
+* Evolved and maintained Python-based monolithic applications and microservices.
+* Developed automated tests using Pytest.
+* Managed infrastructure on Google Cloud Platform.
+* Managed CI/CD pipelines and provided support for production environments.
 
 **Technologies:** Python, Flask, MongoDB, GCP, GitLab CI/CD, Pytest
 
-### Software Engineer | Digiall
+### Software Engineer
 
-Jan 2023 – Sep 2024
+Digiall | Jan/2023 – Sep/2024
 
-* Designed and implemented APIs and microservices for enterprise integrations.
-* Processed large-scale data flows using REST APIs, JSON, and XML.
-* Built cloud-native and serverless applications on AWS.
-* Participated in code reviews, testing initiatives, and CI/CD improvements.
+* Developed APIs and microservices for enterprise integrations.
+* Processed large volumes of data in REST, JSON, and XML formats.
+* Implemented serverless solutions using AWS.
+* Participated in code reviews, automated testing, and the evolution of CI/CD processes.
 
 **Technologies:** Python, FastAPI, PostgreSQL, AWS Lambda, API Gateway, S3
 
-### Software Engineer | Frotacard
+### Software Engineer
 
-Jun 2021 – Dec 2022
+Frotacard | Jun/2021 – Dec/2022
 
-* Maintained and evolved backend services and microservices.
-* Designed and deployed infrastructure using Google Cloud Platform services.
-* Improved operational efficiency through automation and cloud-native solutions.
+* Maintained and implemented features in APIs and microservices.
+* Developed infrastructure using Google Cloud Platform services.
+* Automated deployment, monitoring, and continuous integration processes.
 
 **Technologies:** Python, Flask, GCP, Cloud Run, Cloud Functions, Pub/Sub
 
-### Software Engineer | Expandr
+### Software Engineer
 
-Jul 2020 – Aug 2021
+Expandr | Jul/2020 – Aug/2021
 
-* Designed and developed an e-commerce platform from concept to production.
-* Implemented payment processing and financial integrations.
-* Collaborated with stakeholders to define product requirements and technical solutions.
+* Developed an e-commerce platform from conception to production.
+* Implemented financial integrations and payment automations.
+* Defined solution architecture and technical requirements.
 
 **Technologies:** Python, Django, ReactJS, PostgreSQL
 
-### Software Engineer | Retake
+### Software Engineer
 
-Jun 2019 – Jan 2020
+Retake | Jun/2019 – Jan/2020
 
-* Developed and maintained features for higher education engagement platforms.
-* Supported platform stability and implementation of new business requirements.
+* Developed and maintained a system focused on higher education institutions.
 
 **Technologies:** PHP, Zend Framework 3
 
-### Backend Developer (Freelance)
+### Freelance Backend Developer
 
-Apr 2019 – May 2019
+Apr/2019 – May/2019
 
-* Developed backend features using Django.
-* Built web crawlers and automation tools for data collection.
-* Maintained legal-tech automation systems.
+* Developed features using Django.
+* Built crawlers and automations for data collection.
+* Maintained legal tech systems.
 
 **Technologies:** Python, Django, Web Scraping
 
@@ -132,11 +119,11 @@ Apr 2019 – May 2019
 
 ### Technologist Degree in Systems Analysis and Development
 
-Federal Institute of Education, Science and Technology of Piauí (IFPI)
+Federal Institute of Piauí (IFPI)
 
 2016 – 2020
 
 ## Languages
 
 * Portuguese: Native
-* English: Professional Working Proficiency (B2/C1)
+* English: Advanced (B2/C1)
