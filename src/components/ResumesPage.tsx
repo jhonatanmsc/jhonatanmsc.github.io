@@ -22,8 +22,13 @@ function getResumeUrl(fileName: string) {
     return `${process.env.PUBLIC_URL || ''}/resumes/${fileName}`;
 }
 
+function detectResumeLanguage(): ResumeLanguage {
+    const userLanguage = (globalThis.navigator?.language || '').toLowerCase();
+    return userLanguage.startsWith('pt') ? 'pt' : 'en';
+}
+
 export default function ResumesPage() {
-    const [language, setLanguage] = useState<ResumeLanguage>('pt');
+    const [language, setLanguage] = useState<ResumeLanguage>(detectResumeLanguage);
     const [markdown, setMarkdown] = useState('');
     const [status, setStatus] = useState<'loading' | 'ready' | 'error'>('loading');
 
