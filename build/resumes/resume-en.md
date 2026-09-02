@@ -22,7 +22,7 @@ Strong background in software architecture, integration development, serverless 
 
 **Languages:** Python, JavaScript, TypeScript, SQL, PHP
 
-**Backend:** FastAPI, Flask, Django, REST APIs, Microservices, Integrations, Software Architecture
+**Backend:** FastAPI, Flask, Django, REST APIs, Microservices, Integrations, LangGraph, LangChain, Software Architecture
 
 **Cloud & DevOps:** AWS, AWS Lambda, API Gateway, S3, GCP, Cloud Run, Cloud Functions, Pub/Sub, IAM, GitLab CI/CD, GitHub Actions, Docker
 
@@ -40,8 +40,11 @@ Strong background in software architecture, integration development, serverless 
 
 KWAN | Feb/2025 – Present
 
-* I maintained and implemented features for a chatbot that turns user input into SQL code, including automated tests using Pytest
-* I designed and developed infrastructure using AWS services such as AWS Lambdas, AWS API Gateway, AWS
+* Maintained and implemented features for a chatbot that converts natural-language user input into SQL queries,
+with automated test coverage using Pytest
+* Designed and developed cloud infrastructure using AWS services, including AWS Lambda, API Gateway, S3,
+IAM, Secrets Manager, and CloudWatch
+* Developed and maintained integrations with LangGraph and LangChain
 
 **Tecnologias:** Python, FastAPI, Terraform, S3, AWS IAM, Secret Manager, and CloudWatch
 
