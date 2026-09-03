@@ -38,11 +38,17 @@ Possuo forte atuação em arquitetura de software, desenvolvimento de integraç�
 
 KWAN | Feb/2025 – Atual
 
-* Mantive e implementei funcionalidades para um chatbot que converte entradas em linguagem natural dos usuários em consultas SQL, com testes automatizados utilizando Pytest.
-* Projetei e desenvolvi infraestrutura em AWS, utilizando serviços como AWS Lambda, API Gateway, S3, IAM, Secrets Manager e CloudWatch.
-* Desenvolvi e mantive integrações com LangGraph e LangChain.
+* Mantive e evoluí um chatbot capaz de transformar entradas em linguagem natural em consultas SQL, desenvolvendo testes automatizados com Pytest para garantir a confiabilidade das funcionalidades.
+* Desenvolvi e mantive integrações com LLMs da Anthropic (Claude) e OpenAI, contribuindo diretamente para a evolução das capacidades de IA do produto.
+* Realizei spikes técnicos para validar soluções e arquiteturas, cujos resultados influenciaram decisões e funcionalidades incorporadas ao produto final.
+* Propus melhorias técnicas e funcionais que impactaram o design e a arquitetura do produto, participando ativamente das decisões de desenvolvimento.
+* Projetei e implementei o fluxo de comunicação utilizando AWS AppSync, estruturando a arquitetura necessária para comunicação em tempo real entre os componentes da aplicação.
+* Implementei streaming de respostas dos modelos de IA token a token, permitindo apresentar ao usuário o processo de reasoning dos modelos em tempo real.
+* Projetei e desenvolvi infraestrutura em AWS utilizando serviços como Lambda, API Gateway, S3, IAM, Secrets Manager e CloudWatch.
+* Desenvolvi e mantive integrações com LangGraph e LangChain para orquestração de fluxos envolvendo LLMs.
+* Desenvolvi telas e componentes no frontend utilizando Angular e o framework de design system CSS DS-Density da BMW.
 
-**Tecnologias:** Python, FastAPI, Terraform, S3, AWS IAM, Secret Manager, and CloudWatch
+**Tecnologias:** Python, FastAPI, Terraform, S3, AWS IAM, Secret Manager, AppSync, and CloudWatch
 
 ### Engenheiro de Software
 

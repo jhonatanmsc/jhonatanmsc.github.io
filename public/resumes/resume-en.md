@@ -2,7 +2,7 @@
 
 ## Software Engineer | Python Backend Specialist
 
-Brazil
+Portugal
 
 +351 964 122 422
 
@@ -36,17 +36,21 @@ Strong background in software architecture, integration development, serverless 
 
 ## Professional Experience
 
-### Engenheiro de Software
+### Software Engineer
 
 KWAN | Feb/2025 – Present
 
-* Maintained and implemented features for a chatbot that converts natural-language user input into SQL queries,
-with automated test coverage using Pytest
-* Designed and developed cloud infrastructure using AWS services, including AWS Lambda, API Gateway, S3,
-IAM, Secrets Manager, and CloudWatch
-* Developed and maintained integrations with LangGraph and LangChain
+* Maintained and evolved a chatbot capable of converting users' natural language input into SQL queries, developing automated tests with Pytest to ensure reliability and correctness.
+* Designed and implemented integrations with Anthropic's Claude and OpenAI LLMs, contributing to the evolution of the product's AI capabilities.
+* Conducted technical spikes to validate solutions and architectural approaches, with findings directly influencing the development and design of the final product.
+* Proposed technical and product improvements that influenced key design decisions and the overall architecture of the application.
+* Designed and implemented the AWS AppSync communication flow, enabling real-time communication between application components.
+* Implemented token-by-token streaming of LLM responses, enabling users to receive model reasoning in real time.
+* Designed and developed AWS infrastructure using services such as AWS Lambda, API Gateway, S3, IAM, Secrets Manager, and CloudWatch.
+* Developed and maintained integrations with LangGraph and LangChain for orchestrating LLM-powered workflows.
+* Developed frontend screens and reusable components using Angular and BMW's DS-Density CSS design system.
 
-**Tecnologias:** Python, FastAPI, Terraform, S3, AWS IAM, Secret Manager, and CloudWatch
+**Technologies:** Python, FastAPI, Terraform, S3, AWS IAM, Secret Manager, AppSync, and CloudWatch
 
 ### Software Engineer
 
