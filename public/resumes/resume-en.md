@@ -40,15 +40,17 @@ Strong background in software architecture, integration development, serverless 
 
 KWAN | Feb/2025 – Present
 
-* Maintained and evolved a chatbot capable of converting users' natural language input into SQL queries, developing automated tests with Pytest to ensure reliability and correctness.
-* Designed and implemented integrations with Anthropic's Claude and OpenAI LLMs, contributing to the evolution of the product's AI capabilities.
-* Conducted technical spikes to validate solutions and architectural approaches, with findings directly influencing the development and design of the final product.
-* Proposed technical and product improvements that influenced key design decisions and the overall architecture of the application.
-* Designed and implemented the AWS AppSync communication flow, enabling real-time communication between application components.
-* Implemented token-by-token streaming of LLM responses, enabling users to receive model reasoning in real time.
-* Designed and developed AWS infrastructure using services such as AWS Lambda, API Gateway, S3, IAM, Secrets Manager, and CloudWatch.
-* Developed and maintained integrations with LangGraph and LangChain for orchestrating LLM-powered workflows.
-* Developed frontend screens and reusable components using Angular and BMW's DS-Density CSS design system.
+* Responsible for full-stack architecture, feature development, and code refactoring within an AI-driven product environment;
+* Joined during a key product restructuring phase, conducting technical spikes to validate architectural decisions and participating actively in planning and system design;
+* Executed both evolutionary maintenance—building new features, integrating new clients, and expanding LLM capabilities—and corrective maintenance/refactoring;
+* Designed and built cloud infrastructure using AWS services (AWS Lambda, API Gateway, S3, IAM, Secrets Manager, CloudWatch) and Terraform;
+* Designed and implemented the AWS AppSync communication flow to enable real-time messaging between application components;
+* Integrated Anthropic Claude and OpenAI LLMs, utilizing LangChain and LangGraph to orchestrate complex LLM workflows;
+* Implemented token-by-token streaming of LLM responses to provide users with real-time visibility into model reasoning;
+* Maintained and evolved a natural-language-to-SQL chatbot, developing automated tests with Pytest to ensure reliability and correctness;
+* Developed user interfaces and reusable frontend components using Angular and BMW's DS-Density CSS design system;
+* Authored technical documentation, conducted legacy codebase investigations, and performed code reviews in an Agile/Sprint-based environment;
+* Collaborated closely with international cross-functional teams, including developers, QA engineers, and DevOps specialists.
 
 **Technologies:** Python, FastAPI, Terraform, S3, AWS IAM, Secret Manager, AppSync, and CloudWatch
 
@@ -56,11 +58,12 @@ KWAN | Feb/2025 – Present
 
 Compass UOL | Nov/2025 – Jan/2026
 
-* Developed backend solutions for clients and independent projects.
-* Built scalable APIs using Python, FastAPI, Flask, and Django.
-* Implemented and maintained cloud-based applications.
+* Desenvolvi e implantei APIs RESTful escaláveis e de alta disponibilidade utilizando frameworks Python (FastAPI e Flask), garantindo uma arquitetura limpa e alto desempenho;
+* Atuei diretamente no suporte à infraestrutura backend crítica de clientes de grande porte, incluindo o Itaú, realizando troubleshooting de problemas complexos, diagnóstico de causa raiz e implementação rápida de soluções para maximizar a disponibilidade e a confiabilidade operacional;
+* Projetei e configurei dashboards de monitoramento em tempo real utilizando Grafana para acompanhar o desempenho dos sistemas, identificar gargalos de infraestrutura e solucionar proativamente erros de aplicação antes que impactassem os usuários finais;
+* Provisionei, automatizei e gerenciei ambientes em nuvem, adotando práticas de Infrastructure as Code (IaC) para garantir pipelines de deployment eficientes e consistência entre os ambientes.
 
-**Technologies:** Python, FastAPI, Flask, Django, PostgreSQL, AWS, GCP
+**Technologies:** Python, FastAPI, Flask, PostgreSQL, AWS, Terraform
 
 ### Software Engineer
 

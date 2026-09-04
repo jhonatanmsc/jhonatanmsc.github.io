@@ -38,15 +38,17 @@ Possuo forte atuação em arquitetura de software, desenvolvimento de integraç�
 
 KWAN | Feb/2025 – Atual
 
-* Mantive e evoluí um chatbot capaz de transformar entradas em linguagem natural em consultas SQL, desenvolvendo testes automatizados com Pytest para garantir a confiabilidade das funcionalidades.
-* Desenvolvi e mantive integrações com LLMs da Anthropic (Claude) e OpenAI, contribuindo diretamente para a evolução das capacidades de IA do produto.
-* Realizei spikes técnicos para validar soluções e arquiteturas, cujos resultados influenciaram decisões e funcionalidades incorporadas ao produto final.
-* Propus melhorias técnicas e funcionais que impactaram o design e a arquitetura do produto, participando ativamente das decisões de desenvolvimento.
-* Projetei e implementei o fluxo de comunicação utilizando AWS AppSync, estruturando a arquitetura necessária para comunicação em tempo real entre os componentes da aplicação.
-* Implementei streaming de respostas dos modelos de IA token a token, permitindo apresentar ao usuário o processo de reasoning dos modelos em tempo real.
-* Projetei e desenvolvi infraestrutura em AWS utilizando serviços como Lambda, API Gateway, S3, IAM, Secrets Manager e CloudWatch.
-* Desenvolvi e mantive integrações com LangGraph e LangChain para orquestração de fluxos envolvendo LLMs.
-* Desenvolvi telas e componentes no frontend utilizando Angular e o framework de design system CSS DS-Density da BMW.
+* Responsável pela arquitetura full-stack, desenvolvimento de funcionalidades e refatoração de código em um produto baseado em IA;
+* Entrei durante uma fase importante de reestruturação do produto, realizando provas de conceito técnicas (technical spikes) para validar decisões arquiteturais e participando ativamente do planejamento e desenho do sistema;
+* Atuei tanto na manutenção evolutiva — desenvolvendo novas funcionalidades, integrando novos clientes e expandindo as capacidades dos LLMs — quanto na manutenção corretiva e refatoração;
+* Projetei e desenvolvi a infraestrutura em nuvem utilizando serviços da AWS (AWS Lambda, API Gateway, S3, IAM, Secrets Manager, CloudWatch) e Terraform;
+* Projetei e implementei o fluxo de comunicação utilizando AWS AppSync para possibilitar comunicação em tempo real entre os componentes da aplicação;
+* Integrei os LLMs Anthropic Claude e OpenAI, utilizando LangChain e LangGraph para orquestrar fluxos complexos de LLMs;
+* Implementei streaming de respostas dos LLMs token a token, proporcionando aos usuários visibilidade em tempo real do processamento das respostas do modelo;
+* Mantive e evoluí um chatbot de linguagem natural para SQL, desenvolvendo testes automatizados com Pytest para garantir sua confiabilidade e corretude;
+* Desenvolvi interfaces de usuário e componentes reutilizáveis de frontend utilizando Angular e o sistema de design CSS DS-Density da BMW;
+* Elaborei documentação técnica, conduzi investigações em código legado e realizei revisões de código em um ambiente baseado em Agile/Sprints;
+* Colaborei de forma próxima com equipes internacionais multidisciplinares, incluindo desenvolvedores, engenheiros de QA e especialistas de DevOps.
 
 **Tecnologias:** Python, FastAPI, Terraform, S3, AWS IAM, Secret Manager, AppSync, and CloudWatch
 

@@ -29,7 +29,7 @@
     "start": "react-scripts start",
     "prebuild": "node scripts/sync-resumes.js",
     "build": "react-scripts build",
-    "postbuild": "cp build/index.html build/404.html",
+    "postbuild": "copy build/index.html build/404.html",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
