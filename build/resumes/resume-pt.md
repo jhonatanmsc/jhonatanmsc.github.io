@@ -56,9 +56,10 @@ KWAN | Feb/2025 – Atual
 
 Compass UOL | Nov/2025 – Jan/2026
 
-* Desenvolvimento de soluções backend para clientes e projetos independentes.
-* Construção de APIs escaláveis utilizando Python, FastAPI, Flask e Django.
-* Implementação e manutenção de aplicações em nuvem.
+* Desenvolvi e implantei APIs RESTful escaláveis e de alta disponibilidade utilizando frameworks Python (FastAPI e Flask), garantindo uma arquitetura limpa e alto desempenho;
+* Atuei diretamente no suporte à infraestrutura backend crítica de clientes de grande porte, incluindo o Itaú, realizando troubleshooting de problemas complexos, diagnóstico de causa raiz e implementação rápida de soluções para maximizar a disponibilidade e a confiabilidade operacional;
+* Projetei e configurei dashboards de monitoramento em tempo real utilizando Grafana para acompanhar o desempenho dos sistemas, identificar gargalos de infraestrutura e solucionar proativamente erros de aplicação antes que impactassem os usuários finais;
+* Provisionei, automatizei e gerenciei ambientes em nuvem, adotando práticas de Infrastructure as Code (IaC) para garantir pipelines de deployment eficientes e consistência entre os ambientes.
 
 **Tecnologias:** Python, FastAPI, Flask, Django, PostgreSQL, AWS, GCP
 
