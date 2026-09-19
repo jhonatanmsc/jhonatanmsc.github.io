@@ -24,6 +24,12 @@
     "gh-pages": "^6.3.0",
     "md-to-pdf": "^5.2.5"
   },
+  "overrides": {
+    "nth-check": "^2.1.1",
+    "resolve-url-loader": "^5.0.0",
+    "serialize-javascript": "^7.0.5",
+    "@svgr/webpack": "^8.1.0"
+  },
   "scripts": {
     "prestart": "node scripts/sync-resumes.js",
     "start": "react-scripts start",
