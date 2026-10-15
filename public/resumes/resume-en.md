@@ -38,7 +38,7 @@ Strong background in software architecture, integration development, serverless 
 
 ### Software Engineer
 
-KWAN | Feb/2025 – Present
+KWAN | Feb/2026 – Present
 
 * Responsible for full-stack architecture, feature development, and code refactoring within an AI-driven product environment;
 * Joined during a key product restructuring phase, conducting technical spikes to validate architectural decisions and participating actively in planning and system design;
