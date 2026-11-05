@@ -36,7 +36,7 @@ Possuo forte atuação em arquitetura de software, desenvolvimento de integraç�
 
 ### Engenheiro de Software
 
-KWAN | Feb/2026 – Atual
+KWAN | Feb/2026 – Nov/2026
 
 * Responsável pela arquitetura full-stack, desenvolvimento de funcionalidades e refatoração de código em um produto baseado em IA;
 * Entrei durante uma fase importante de reestruturação do produto, realizando provas de conceito técnicas (technical spikes) para validar decisões arquiteturais e participando ativamente do planejamento e desenho do sistema;
